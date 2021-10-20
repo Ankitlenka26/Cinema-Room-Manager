@@ -1,0 +1,9 @@
+type: framework
+custom_name: Cinema Room Manager
+content:
+- Arrangement
+- Sold_
+- Tickets
+- Menu, please_
+- Errors_
+current_task: 4
